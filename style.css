@@ -1,0 +1,164 @@
+.col-xs-1 {
+
+background-color: aqua;
+height: 35px;
+display: flex;
+justify-content: center;
+align-items: center;
+border: 1px solid;
+
+
+}
+.col-xs-2 {
+
+background-color: aqua;
+height: 35px;
+display: flex;
+justify-content: center;
+align-items: center;
+border: 1px solid;
+
+
+}
+
+.col-xs-3 {
+
+    background-color: aqua;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    
+    
+}
+
+.col-xs-4 {
+
+    background-color: aqua;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    
+    
+}
+
+.col-xs-5 {
+
+    background-color: aqua;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    
+    
+}
+
+.col-xs-6 {
+
+    background-color: aqua;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    
+    
+}
+
+.col-xs-7 {
+
+    background-color: aqua;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    
+    
+}
+
+.col-xs-8 {
+
+    background-color: aqua;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    
+    
+}
+
+.col-xs-9 {
+
+    background-color: aqua;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    
+    
+}
+
+.col-xs-10 {
+
+    background-color: aqua;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    
+    
+}
+
+.col-xs-11 {
+
+    background-color: aqua;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    
+    
+}
+
+.col-xs-12 {
+
+    background-color: aqua;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    
+    
+}
+
+
+
+
+h1 {
+
+    font-size: 1rem;
+
+}
+
+div.col-xs-6.row div {
+    background-color: brown;
+    height: 15px;
+}
+
+div.col-xs-6.row {
+    padding: 10px;
+}
+
+.container {
+    margin-bottom: 30px;
+}
